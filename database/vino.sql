@@ -201,7 +201,7 @@ ALTER TABLE `bouteilles`
 -- AUTO_INCREMENT pour la table `celliers`
 --
 ALTER TABLE `celliers`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT;
 
 --
 -- AUTO_INCREMENT pour la table `commentaires`
