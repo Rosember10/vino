@@ -12,6 +12,8 @@
 
 <h1>COUCOU VINO 2 test</h1>
 
+<h2>Glou glou!</h2>
+
 </body>
 </html>
 
