@@ -10,7 +10,8 @@
   
 <h1>COUCOU VINO</h1>
 
-<h3>ici on va imaginer qu'on est connecté en tant que user au id: 1</h3>
+<h2>ici on va imaginer qu'on est connecté en tant que user au id: 1</h2>
+<h3>quand tu vas créer un cellier ca va le lier au user_id 1 étant donné qu'on a pas fait la gestion du user encore, bisou</h3>
 <br>
 
 <a href="{{ route('cellier.index') }}"><button>Mes celliers</button></a>
