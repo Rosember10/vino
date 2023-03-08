@@ -10,12 +10,12 @@
   
 <h1>COUCOU VINO</h1>
 
-<h1>COUCOU VINO 2 test</h1>
+<h2>ici on va imaginer qu'on est connecté en tant que user au id: 1</h2>
+<h3>quand tu vas créer un cellier ca va le lier au user_id 1 étant donné qu'on a pas fait la gestion du user encore, bisou</h3>
+<br>
 
-<h2>Glou glou!</h2>
+<a href="{{ route('cellier.index') }}"><button>Mes celliers</button></a>
 
-<h2>Ros el Jefe</h2>
-<h2>eric es el lider</h2>
 
 </body>
 </html>
